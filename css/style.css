@@ -224,6 +224,7 @@
     border-radius: 2px;
     font-size: 22px;
     transition: .5s;
+    bacground-color:red;
 }
 
 .header-carousel .owl-nav .owl-prev:hover,
